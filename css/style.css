@@ -733,12 +733,13 @@ body._locked {
   z-index: 22;
 }
 
+
 .main__section {
+  background: url("../img/main/background-main.png") no-repeat center center;
   background-size: cover;
   max-width: 100%;
   height: 80rem;
   background-blend-mode: color;
-  background: url("../img/main/background-main.png") no-repeat center center; 
   background-color: rgba(0, 0, 0, 0.5);
   font-family: "RobotoCondensed";
   font-style: normal;
@@ -1158,13 +1159,14 @@ body._locked {
   background-color: #f2f2f2;
 }
 
+
 .main-work__section {
+  background: url("../img/work/loft-unique.png") no-repeat center center;
   background-size: cover;
   max-width: 100%;
   height: 80rem;
   background-blend-mode: color;
   background-color: rgba(0, 0, 0, 0.5);
-  background: url("../img/work/loft-unique.png") no-repeat center center;
   font-family: "RobotoCondensed";
   font-style: normal;
 }
@@ -2548,11 +2550,11 @@ body._locked {
   }
 
   .main__section {
+    background: url("../img/main/background-main768.png") no-repeat center center;
     height: 100vh;
     background-size: cover;
     background-blend-mode: color;
     background-color: rgba(0, 0, 0, 0.5);
-    background: url("../img/main/background-main768.png") no-repeat center center;
   }
 
   .main__title {
@@ -2694,11 +2696,11 @@ body._locked {
 
 
   .main-work__section {
+    background: url("../img/work/loft-unique768.png") no-repeat center center;
     height: 100vh;
     background-size: cover;
     background-blend-mode: color;
     background-color: rgba(0, 0, 0, 0.5);
-    background: url("../img/work/loft-unique768.png") no-repeat center center;
   }
 
   .main-work__title {
@@ -2850,11 +2852,11 @@ body._locked {
 
 
   .main__section {
+    background: url("../img/main/background-main480.png") no-repeat center center;
     height: 100vh;
     background-size: cover;
     background-blend-mode: color;
     background-color: rgba(0, 0, 0, 0.5);
-    background: url("../img/main/background-main480.png") no-repeat center center;
   }
 
   .spoiler-accordion {
@@ -2987,13 +2989,12 @@ body._locked {
     display: none;
   }
 
-
   .main-work__section {
+    background: url("../img/work/loft-unique480.png") no-repeat center center;
     height: 100vh;
     background-size: cover;
     background-blend-mode: color;
     background-color: rgba(0, 0, 0, 0.5);
-    background: url("../img/work/loft-unique480.png") no-repeat center center;
   }
 
   .description__head {
