@@ -733,15 +733,12 @@ body._locked {
   z-index: 22;
 }
 
-.no-webp .main__section{
-  background: url("../img/main/background-main.png") no-repeat center center; }
-
 .main__section {
   background-size: cover;
   max-width: 100%;
   height: 80rem;
   background-blend-mode: color;
-  background: url("../img/main/background-main.webp") no-repeat center center; 
+  background: url("../img/main/background-main.png") no-repeat center center; 
   background-color: rgba(0, 0, 0, 0.5);
   font-family: "RobotoCondensed";
   font-style: normal;
@@ -1161,16 +1158,13 @@ body._locked {
   background-color: #f2f2f2;
 }
 
-.no-webp .main-work__section{
-  background: url("../img/work/loft-unique.png") no-repeat center center; }
-
 .main-work__section {
   background-size: cover;
   max-width: 100%;
   height: 80rem;
   background-blend-mode: color;
   background-color: rgba(0, 0, 0, 0.5);
-  background: url("../img/work/loft-unique.webp") no-repeat center center;
+  background: url("../img/work/loft-unique.png") no-repeat center center;
   font-family: "RobotoCondensed";
   font-style: normal;
 }
@@ -2553,9 +2547,6 @@ body._locked {
     margin: 18.4rem 0 0;
   }
 
-  .no-webp .main__section{
-    background: url("../img/main/background-main768.png") no-repeat center center; }
-
   .main__section {
     height: 100vh;
     background-size: cover;
@@ -2701,8 +2692,6 @@ body._locked {
         grid-row-start: 7;
   }
 
-  .no-webp .main-work__section{
-    background: url("../img/work/loft-unique768.png") no-repeat center center; }
 
   .main-work__section {
     height: 100vh;
@@ -2859,8 +2848,6 @@ body._locked {
     padding: 0 4.5rem 0 0;
   }
 
-  .no-webp .main__section{
-    background: url("../img/main/background-main480.png") no-repeat center center; }
 
   .main__section {
     height: 100vh;
@@ -3000,8 +2987,6 @@ body._locked {
     display: none;
   }
 
-  .no-webp .main-work__section{
-    background: url("../img/work/loft-unique480.png") no-repeat center center; }
 
   .main-work__section {
     height: 100vh;
